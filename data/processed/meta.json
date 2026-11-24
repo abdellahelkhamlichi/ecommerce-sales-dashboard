@@ -1,0 +1,57 @@
+{
+  "built_at": "2026-11-20 03:52 UTC",
+  "first_month": "2017-01",
+  "last_month": "2018-08",
+  "threshold": 0.1,
+  "median_monthly_orders": 4285,
+  "excluded_months": [
+    {
+      "month": "2016-09",
+      "orders": 4
+    },
+    {
+      "month": "2016-10",
+      "orders": 324
+    },
+    {
+      "month": "2016-12",
+      "orders": 1
+    },
+    {
+      "month": "2018-09",
+      "orders": 16
+    },
+    {
+      "month": "2018-10",
+      "orders": 4
+    }
+  ],
+  "top_categories": [
+    "Health & Beauty",
+    "Watches & Gifts",
+    "Bed, Bath & Table",
+    "Sports & Leisure",
+    "Computer Accessories",
+    "Furniture & Decor",
+    "Housewares",
+    "Cool Stuff & Gadgets",
+    "Auto Parts",
+    "Garden Tools",
+    "Toys",
+    "Baby",
+    "Perfumery",
+    "Phones",
+    "Office Furniture",
+    "Stationery",
+    "Pet Shop",
+    "Computers",
+    "Musical Instruments",
+    "Electronics"
+  ],
+  "rows": {
+    "fact_orders": 96211,
+    "fact_order_items": 109880,
+    "dim_customers": 93104,
+    "order_status": 99092
+  }
+}
